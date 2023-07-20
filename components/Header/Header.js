@@ -2,7 +2,7 @@ import "./Header.css";
 
 const template = () => {
   return `
-    <img src="public/pagelogo/logo.png" alt="Logo of the web">
+    <img src="/pagelogo/logo.png" alt="Logo of the web">
     <nav>
         <ul>
           <li><a href="#null" id="home-link">Home</a></li>
