@@ -39,7 +39,7 @@ const template = () => {
         <h2 id="player">Player</h2>
         <h3 is="countplayer">0</h3>
       </div>  
-      <img src="/public/sheldonHi.png" alt="Sheldon say hi" />
+      <img src="/sheldonHi.png" alt="Sheldon say hi" />
       <div>
         <h2 id="computer">Computer</h2>
         <h3 is="countcompu">0</h3>
