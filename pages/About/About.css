@@ -1,0 +1,29 @@
+main > h2 {
+    color: inherit;
+}
+
+main > img {
+    height: 350px;
+    width: auto;
+    filter: invert(90%);
+}
+
+main > img:hover {
+    scale: 1.1;
+}
+
+main > section {
+    display: flex;
+    flex-direction: column;
+    display: center;
+    align-items: center;
+}
+
+main > section > p {
+    width: 80%;
+    font-size: 15px;
+}
+
+main > section > p:hover {
+    background-color: rgba(128, 128, 128, 0.612);
+}
