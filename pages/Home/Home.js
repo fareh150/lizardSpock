@@ -52,6 +52,8 @@ const Home = () => {
   const main = document.querySelector("main");
   cleanPage(main);
   main.innerHTML = template();
+  let playerCounter = 0;
+  let computerCounter = 0;
   btnListeners();
 };
 
